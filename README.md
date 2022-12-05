@@ -1,6 +1,6 @@
 - 👋 hello, im @Nunnerrs
 - 🧠 i know luau, javascript, html, css, and php
-- ⌨ i like making roblox games and random javascript stuff
+- ⌨ i like making games on roblox (i code all of it) and random javascript stuff (my roblox username is Nunnerrs)
 - (…) ive been attempting to make javascript games hehehh…
 - ❇ u should check out [nunnerrs.github.io](https://nunnerrs.github.io) because yes
 
