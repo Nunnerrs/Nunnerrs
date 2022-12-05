@@ -1,7 +1,7 @@
 - 👋 hello, im @Nunnerrs
 - 🧠 i know luau, javascript, html, css, and php
 - ⌨ i like making roblox games and random javascript stuff
--  ive been attempting to make javascript games hehehh…
+- (…) ive been attempting to make javascript games hehehh…
 - ❇ u should check out [nunnerrs.github.io](https://nunnerrs.github.io) because yes
 
 <!---
