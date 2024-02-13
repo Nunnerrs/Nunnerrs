@@ -1,8 +1,8 @@
-- 👋 hello, im @Nunnerrs
-- 🧠 i know luau, javascript, html, css, and php
-- ⌨ i like making games on roblox (i code all of it) and random javascript stuff (my roblox username is Nunnerrs)
-- (…) ive been attempting to make javascript games hehehh…
-- ❇ u should check out [nunnerrs.github.io](https://nunnerrs.github.io) because yes
+# 👋 hey, i'm @Nunnerrs
+- just a random person who likes to code for fun
+- i made a website! check out my silly projects: [nunnerrs.github.io](https://nunnerrs.github.io)
+- i know luau, javascript, html, css (i forgor php 💀)
+- pssst also take a look at my roblox games (username Nunnerrs, group is NunnerDev)
 
 <!---
 Nunnerrs/Nunnerrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
